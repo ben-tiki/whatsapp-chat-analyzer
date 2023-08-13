@@ -1,4 +1,5 @@
 import pandas as pd
+import emoji
 
 def format_chat(chat_file) -> pd.DataFrame:
     '''
@@ -41,7 +42,27 @@ def format_chat(chat_file) -> pd.DataFrame:
         dataframe_chat['user'] = dataframe_chat['user'].astype('category')
         dataframe_chat['message'] = dataframe_chat['message'].astype('string')
 
+        dataframe_chat = create_useful_columns(dataframe_chat)
+
         return dataframe_chat
     
     except Exception as e:
         raise ValueError(f"An error occurred while processing the chat log: {str(e)}")
+
+def create_useful_columns(dataframe_chat) -> pd.DataFrame:
+
+    '''
+    Creates aditional useful columns for the dataframe_chat
+    '''
+
+    dataframe_chat['hour'] = dataframe_chat['time'].dt.hour
+    dataframe_chat['day'] = dataframe_chat['time'].dt.day.astype('category')
+    dataframe_chat['day_name'] = dataframe_chat['time'].dt.day_name().astype('category')
+    dataframe_chat['date'] = dataframe_chat['time'].dt.date.astype('category')
+    dataframe_chat['month'] = dataframe_chat['time'].dt.month.astype('category')
+    dataframe_chat['year'] = dataframe_chat['time'].dt.year.astype('category')
+    dataframe_chat['weekday'] = dataframe_chat['time'].dt.day_name().astype('category')
+    dataframe_chat['emoji'] = dataframe_chat['message'].apply(lambda x: ''.join([c for c in x if c in emoji.EMOJI_DATA]))
+    
+    return dataframe_chat
+    

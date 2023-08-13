@@ -1,13 +1,16 @@
 # Usage
-Please follow the steps in this [link](https://faq.whatsapp.com/196737011380816/?locale=en_US) in order to Export Your WhatsApp Chat History. Note that chat exports are individual (one chat at a time) and they have a maximum length of 10,000 messages.
+Analyze your WhatsApp chat history with this Streamlit application. You can follow these steps to get started:
 
-This export will generate a "_chat.txt" file. In order to perform the EDA on the file, simply clone the repository,  drag and drop the file into the directory and run the whatsapp_analytics Jupyter Notebook.
+1. Export your chat history from WhatsApp. You can find instructions on how to do this here:  [here](https://faq.whatsapp.com/196737011380816/?locale=en_US). The export file will be called ``_chat.txt``.
+2. Clone the repository and move the ``_chat.txt`` file into the project directory.
+3. Run the Streamlit application using the following command:
+4. Drag and drop the ``_chat.txt`` file into the Streamlit application. The application will automatically analyze your chat history and generate graphs and insights.
 
 # Generated Information / Graphs
-![image](https://user-images.githubusercontent.com/101474762/193976098-6a99de2e-5e75-49a8-a436-eead19921687.png)
----
+The application will generate a variety of graphs and insights, including:
 
-![image](https://user-images.githubusercontent.com/101474762/193976114-bb1cfc22-cf01-42ed-ada6-6029843a99c6.png)
----
+- The most popular words and phrases in your conversations
+- The most popular emojis in your conversations
+- The topics that you talk about most often
 
-![image](https://user-images.githubusercontent.com/101474762/193976129-98e9feca-5223-483c-bc5e-efb49f964f26.png)
+You can download the graphs and insights by clicking on the download button in the top right corner of each image.

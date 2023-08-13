@@ -1,0 +1,128 @@
+[3/12/17 20:37:42] Jane: Hey Ben! 😊
+[3/12/17 20:38:01] Ben: Hi Jane! How's it going? 🙌
+[3/12/17 20:38:42] Jane: I'm doing well, just got off work. How about you? 😄
+[3/15/17 21:24:09] Ben: Same here, work has been crazy lately! 😅 Btw, have you listened to the new Coldplay album?
+[3/15/17 21:24:35] Jane: Not yet! I've heard it's great though. 🎶 Have you?
+[3/15/17 21:25:07] Ben: Yeah, it's amazing! I'm going to their concert next month! Are you interested in joining? 🎤
+[3/15/17 21:25:29] Jane: Sounds like fun! I'll check my schedule and let you know. 😃
+[6/20/18 10:15:42] Ben: Hey Jane, remember we talked about universities last time? Have you decided where you'll apply? 🎓
+[6/20/18 10:16:17] Jane: Yeah! I'm applying to a few different ones, but my top choice is Yale. How about you? 🤔
+[6/20/18 10:16:55] Ben: That's awesome! I'm applying to Stanford and a few others. Fingers crossed for both of us! 🤞
+[10/25/19 15:30:12] Jane: Hey Ben! Guess what? I got accepted into Yale! 🎉
+[10/25/19 15:30:45] Ben: Congrats, Jane! That's fantastic news! 🥳 I got into Stanford too!
+[10/25/19 15:31:20] Jane: Wow, that's amazing! We did it! Can't wait to start this new chapter. 📚
+[12/22/20 18:45:32] Ben: Hey Jane, how's everything going at Yale? Are you enjoying it? 😊
+[12/22/20 18:46:10] Jane: It's been great! I've made so many new friends and the classes are challenging but interesting. How's Stanford treating you? 🌲
+[12/22/20 18:46:45] Ben: It's been a wonderful experience so far. Lots of late nights studying, but I'm learning so much. 📖
+[2/14/21 19:55:24] Jane: Happy Valentine's Day, Ben! 💖 How did you celebrate?
+[2/14/21 19:56:01] Ben: Happy Valentine's Day! 🌹 I had a quiet night in, watched a movie, and ordered some pizza. How about you?
+[2/14/21 19:56:35] Jane: I went to a small party with some friends. It was a lot of fun! 🎉
+[4/27/22 21:03:48] Ben: Hey Jane, I was wondering, do you have any plans for the summer? 😎
+[4/27/22 21:04:20] Jane: I'm doing an internship in New York City! 🗽 What about you?
+[4/27/22 21:04:55] Ben: That's awesome! I'll be doing research at Stanford and maybe take a road trip during the break. 🚗
+[4/27/22 21:05:30] Jane: Sounds like a great plan, Ben! We should definitely catch up sometime and share our experiences. 😄
+[4/27/22 21:06:02] Ben: Yeah, let's do that! Have a great summer, Jane! ☀️
+[4/27/22 21:06:34] Jane: You too, Ben! Take care and have fun! 😊
+[9/10/22 16:24:15] Ben: Hey Jane, how was your internship in NYC? 🌃
+[9/10/22 16:24:50] Jane: It was an incredible experience! I learned so much and met some amazing people. 😁 How was your summer at Stanford?
+[9/10/22 16:25:25] Ben: It was great! The research project was really interesting, and I managed to go on that road trip too. 🏞️
+[9/10/22 16:25:58] Jane: That sounds like a fantastic summer. Where did you go on your road trip? 🚗
+[9/10/22 16:26:35] Ben: I visited a few national parks and some friends who live along the west coast. It was a blast! 🏔️
+[9/10/22 16:27:10] Jane: Sounds amazing! I've always wanted to do a road trip like that. Maybe someday! 🤞
+[11/23/22 19:45:30] Ben: Hey Jane, are you going home for Thanksgiving? 🦃
+[11/23/22 19:46:05] Jane: Yes, I'm flying back tomorrow. Can't wait to see my family! 🏡 How about you?
+[11/23/22 19:46:40] Ben: Same here! It's been too long since I've had a home-cooked meal. 😅
+[11/23/22 19:47:15] Jane: Haha, I know the feeling. Enjoy your Thanksgiving, Ben! 🍁
+[11/23/22 19:47:50] Ben: You too, Jane! Have a great time with your family. 😊
+[12/31/22 23:45:00] Jane: Hey Ben, just wanted to wish you a Happy New Year! 🎆
+[12/31/22 23:45:30] Ben: Happy New Year, Jane! 🎉 Let's make 2023 a great one!
+[1/13/23 14:35:25] Jane: Hey Ben, how's your semester going so far? 📚
+[1/13/23 14:36:00] Ben: It's been pretty hectic, but I'm managing. How about you? 😊
+[1/13/23 14:36:35] Jane: Same here. I've got a lot of assignments and projects, but I'm enjoying the challenge. 💪
+[3/1/23 20:00:45] Ben: Hey Jane, do you have any plans for spring break? 🌸
+[3/1/23 20:01:20] Jane: I'm going on a trip to Europe with some friends! ✈️ Super excited! How about you?
+[3/1/23 20:01:55] Ben: That's amazing! I'm going to visit my grandparents in Florida. 🏖️ Have a great time in Europe!
+[3/1/23 20:02:30] Jane: Thanks, Ben! Enjoy your time with your grandparents. 😄
+[3/1/23 20:03:00] Ben: Will do, Jane! Safe travels and have a blast in Europe! 🌍
+[3/1/23 20:03:30] Jane: Thanks, Ben! Can't wait to share my adventures when I get back. 📸
+[3/1/23 20:04:00] Ben: Looking forward to hearing all about it! Take care, Jane! 👋
+[3/1/23 20:04:30] Jane: You too, Ben! Talk to you soon! 👋
+[4/1/23 10:00:00] Ben: Hey Jane, welcome back! How was Europe? 🌍
+[4/1/23 10:00:30] Jane: Hi Ben! Europe was amazing! I can't wait to tell you all about it. 🗺️
+[4/1/23 10:01:00] Ben: That's great to hear! Let's catch up soon. 😊
+[4/1/23 10:01:30] Jane: Sounds like a plan, Ben! Looking forward to it. 😄
+[5/1/23 15:00:00] Ben: Hey Jane, how's the end of the semester treating you? 📚
+[5/1/23 15:00:30] Jane: Hi Ben! It's been a bit stressful with finals coming up, but I'm managing. How about you? 📝
+[5/1/23 15:01:00] Ben: Same here, Jane. Just a few more weeks and we'll be done! 💪
+[5/1/23 15:01:30] Jane: That's the spirit, Ben! Let's finish strong. 🎓
+[5/1/23 15:02:00] Ben: Absolutely, Jane! We've got this. 🏆
+[5/1/23 15:02:30] Jane: Yes, we do! Talk to you soon, Ben. Good luck with your studies! 🍀
+[5/1/23 15:03:00] Ben: Thanks, Jane! Good luck to you too! 🌟
+[5/2/23 09:00:00] Ben: Good morning, Jane! How's the studying going? 📚
+[5/2/23 09:30:00] Jane: Morning, Ben! It's going well, just taking a quick break. How about you? ☕
+[5/3/23 14:00:00] Ben: Afternoon, Jane! Just finished a study session. How's your day going? 📖
+[5/3/23 14:30:00] Jane: Hi Ben! My day's going well, just working on a project. 🖥️
+[5/4/23 20:00:00] Ben: Evening, Jane! How's the project coming along? 💻
+[5/4/23 20:30:00] Jane: Hi Ben! It's coming along well, thanks for asking. How's your evening? 🌙
+[5/5/23 07:00:00] Ben: Good morning, Jane! Ready for the day? 🌞
+[5/5/23 07:30:00] Jane: Morning, Ben! Yes, I'm ready. Let's do this! 💪
+[5/6/23 12:00:00] Ben: Hey Jane, how's your Saturday going? 🌻
+[5/6/23 12:30:00] Jane: Hi Ben! It's going well, just relaxing a bit. How about you? 🍃
+[5/7/23 18:00:00] Ben: Evening, Jane! How was your weekend? 🌇
+[5/7/23 18:30:00] Jane: Hi Ben! It was good, got some rest. How was yours? 🌠
+[5/8/23 11:00:00] Ben: Morning, Jane! Ready for the new week? 📅
+[5/8/23 11:30:00] Jane: Hi Ben! Yes, I'm ready. Let's make it a great week! 🌟
+[5/9/23 16:00:00] Ben: Afternoon, Jane! How's your day going? 🌤️
+[5/9/23 16:30:00] Jane: Hi Ben! It's going well, just wrapping up some work. How about you? 📝
+[5/10/23 21:00:00] Ben: Evening, Jane! How was your day? 🌙
+[5/10/23 21:30:00] Jane: Hi Ben! It was good, productive. How was yours? 🌟
+[5/11/23 08:00:00] Ben: Good morning, Jane! Ready for the day? 🌞
+[5/11/23 08:30:00] Jane: Morning, Ben! Yes, I'm ready. Let's do this! 💪
+[5/12/23 13:00:00] Ben: Afternoon, Jane! How's your day going? 🌤️
+[5/12/23 13:30:00] Jane: Hi Ben! It's going well, just taking a lunch break. How about you? 🍽️
+[5/13/23 19:00:00] Ben: Evening, Jane! How was your day? 🌙
+[5/13/23 19:30:00] Jane: Hi Ben! It was good, got a lot done. How was yours? 🌟
+[5/14/23 10:00:00] Ben: Morning, Jane! How's your Sunday going? 🌻
+[5/14/23 10:30:00] Jane: Hi Ben! It's going well, just relaxing a bit. How about you? 🍃
+[5/15/23 15:00:00] Ben: Afternoon, Jane! Ready for the new week? 📅
+[5/15/23 15:30:00] Jane: Hi Ben! Yes, I'm ready. Let's make it a great week! 🌟
+[5/16/23 22:00:00] Ben: Evening, Jane! How was your day? 🌙
+[5/16/23 22:30:00] Jane: Hi Ben! It was good, productive. How was yours? 🌟
+[5/17/23 06:00:00] Ben: Good morning, Jane! Ready for the day? 🌞
+[5/17/23 06:30:00] Jane: Morning, Ben! Yes, I'm ready. Let's do this! 💪
+[5/18/23 14:00:00] Ben: Afternoon, Jane! How's your day going? 🌤️
+[5/18/23 14:30:00] Jane: Hi Ben! It's going well, just wrapping up some work. How about you? 📝
+[5/19/23 20:00:00] Ben: Evening, Jane! How was your day? 🌙
+[5/19/23 20:30:00] Jane: Hi Ben! It was good, got a lot done. How was yours? 🌟
+[5/20/23 09:00:00] Ben: Good morning, Jane! Ready for the day? 🌞
+[5/20/23 09:30:00] Jane: Morning, Ben! Yes, I'm ready. Let's do this! 💪
+[5/21/23 17:00:00] Ben: Afternoon, Jane! How's your Sunday going? 🌻
+[5/21/23 17:30:00] Jane: Hi Ben! It's going well, just relaxing a bit. How about you? 🍃
+[5/22/23 23:00:00] Ben: Evening, Jane! How was your day? 🌙
+[5/22/23 23:30:00] Jane: Hi Ben! It was good, productive. How was yours? 🌟
+[5/23/23 07:00:00] Ben: Good morning, Jane! Ready for the day? 🌞
+[5/23/23 07:30:00] Jane: Morning, Ben! Yes, I'm ready. Let's do this! 💪
+[5/24/23 12:00:00] Ben: Afternoon, Jane! How's your day going? 🌤️
+[5/24/23 12:30:00] Jane: Hi Ben! It's going well, just taking a lunch break. How about you? 🍽️
+[5/25/23 18:00:00] Ben: Evening, Jane! How was your day? 🌙
+[5/25/23 18:30:00] Jane: Hi Ben! It was good, got a lot done. How was yours? 🌟
+[5/26/23 10:00:00] Ben: Good morning, Jane! Ready for the day? 🌞
+[5/26/23 10:30:00] Jane: Morning, Ben! Yes, I'm ready. Let's do this! 💪
+[5/27/23 16:00:00] Ben: Afternoon, Jane! How's your Saturday going? 🌻
+[5/27/23 16:30:00] Jane: Hi Ben! It's going well, just relaxing a bit. How about you? 🍃
+[5/28/23 21:00:00] Ben: Evening, Jane! How was your weekend? 🌙
+[5/28/23 21:30:00] Jane: Hi Ben! It was good, got some rest. How was yours? 🌠
+[5/29/23 08:00:00] Ben: Good morning, Jane! Ready for the new week? 🌞
+[5/29/23 08:30:00] Jane: Morning, Ben! Yes, I'm ready. Let's make it a great week! 🌟
+[5/30/23 13:00:00] Ben: Afternoon, Jane! How's your day going? 🌤️
+[5/30/23 13:30:00] Jane: Hi Ben! It's going well, just taking a lunch break. How about you? 🍽️
+[5/31/23 19:00:00] Ben: Evening, Jane! How was your day? 🌙
+[5/31/23 19:30:00] Jane: Hi Ben! It was good, got a lot done. How was yours? 🌟
+[6/1/23 11:00:00] Ben: Good morning, Jane! Ready for the day? 🌞
+[6/1/23 11:30:00] Jane: Morning, Ben! Yes, I'm ready. Let's do this! 💪
+[6/2/23 15:00:00] Ben: Afternoon, Jane! How's your day going? 🌤️
+[6/2/23 15:30:00] Jane: Hi Ben! It's going well, just wrapping up some work. How about you? 📝
+[6/3/23 20:00:00] Ben: Evening, Jane! How was your day? 🌙
+[6/3/23 20:30:00] Jane: Hi Ben! It was good, got a lot done. How was yours? 🌟
+[6/4/23 09:00:00] Ben: Good morning, Jane! Ready for the day? 
+[6/4/23 10:00:00] Ben: What are you doing today?
