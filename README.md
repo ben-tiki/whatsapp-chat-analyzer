@@ -6,7 +6,7 @@ https://github.com/ben-tiki/whatsapp-chat-analyzer/assets/101474762/bd0c99b5-fb9
 # Usage
 1. Export your chat history from WhatsApp. You can find instructions on how to do this here:  [here](https://faq.whatsapp.com/196737011380816/?locale=en_US). The export file will be called ``_chat.txt``.
 2. Clone the repository and move the ``_chat.txt`` file into the project directory.
-3. Run the Streamlit application using the following command:
+3. Run the Streamlit application using the following command: ``streamlit run app.py``
 4. Drag and drop the ``_chat.txt`` file into the Streamlit application. The application will automatically analyze your chat history and generate graphs and insights.
 
 # Generated Information / Graphs
